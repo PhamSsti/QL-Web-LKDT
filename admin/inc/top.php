@@ -8,7 +8,7 @@
 	
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 
-	<title>Trang quản trị - ABC Shop</title>
+	<title>Trang quản trị - 3KLN Shop</title>
 
 	<link href="../inc/css/app.css" rel="stylesheet">
 	<script src="../inc/js/app.js"></script>
@@ -21,7 +21,7 @@
 		<nav id="sidebar" class="sidebar js-sidebar">
 			<div class="sidebar-content js-simplebar">
 				<a class="sidebar-brand" href="">
-          <span class="align-middle">ABC Shop</span>
+          <span class="align-middle">3KLN Shop</span>
         </a>
 
 				<ul class="sidebar-nav">
@@ -168,7 +168,7 @@
 											</div>
 											<div class="col-10 ps-2">
 												<div class="text-dark">Doraemon</div>
-												<div class="text-muted small mt-1">Mail của mèo máy đến từ tương lai nè ^.^</div>
+												<div class="text-muted small mt-1">Mail mới ^.^</div>
 												<div class="text-muted small mt-1">15 phút trước</div>
 											</div>
 										</div>
