@@ -46,12 +46,13 @@
                 <div class="row">
                     <div class="col-md-6 text-light">
                         <a href="index.php" class="text-decoration-none text-white">
-                        <h4><span class="badge text-white bg-success">A</span>
-                            <span class="badge text-white bg-danger">B</span>
-                            <span class="badge text-white bg-warning">C</span> Shop - Cửa hàng văn phòng phẩm</h4></a>
+                        <h4><span class="badge text-white bg-success">3</span>
+                            <span class="badge text-white bg-danger">K</span>
+                            <span class="badge text-white bg-warning">L</span>
+                            <span class="badge text-white bg-primary">N</span> Shop - Cửa hàng 3KLN</h4></a>
                         <p><b><i>Địa chỉ:</i></b> 18 Ung Văn Khiêm, phường Đông Xuyên, TP Long Xuyên, An Giang<br>
                             <b><i>Điện thoại:</i></b> 076 3841190<br> 
-                            <b><i>Email:</i></b> abc@abc.com</p>
+                            <b><i>Email:</i></b> cuahang3KLN@gmail.com</p>
                     </div>
                     <div class="col-md-3 text-muted">
                         <h4>DANH MỤC HÀNG</h4>                        
@@ -69,7 +70,7 @@
                     </div>
                 </div>
                 <hr>
-                <p class="m-0 text-center text-warning fw-bolder">Copyright &copy; ABC Shop 2023</p></div>
+                <p class="m-0 text-center text-warning fw-bolder">Copyright &copy; 3KLN Shop 2023</p></div>
         </footer>
 
     </body>
