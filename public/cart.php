@@ -24,7 +24,7 @@ else {
 <?php endforeach; ?>
     <tr>
       <td colspan="3"></td>
-      <td class ="fw-bold">tong tien</td><td class="text-danger fw-bold">
+      <td class ="fw-bold">Tổng Tiền</td><td class="text-danger fw-bold">
          <?php echo number_format(tinhtiengiohang()); ?>D
       </td> 
     </tr>
@@ -35,7 +35,7 @@ else {
    </div>
    <div class="col text-end">
       <input type="hidden" name="action" value="capnhatgio">
-      <input type="submit" class="btn btn-info" value="cap nhat">
+      <input type="submit" class="btn btn-info" value="Cập Nhật">
       <a href="index.php?action=thanhtoan" class="btn btn-success">Thanh Toán</a>
    </div>
 </div>
